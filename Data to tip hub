@@ -1,0 +1,3 @@
+Several Foursquare users were inspected to find a suitable user to conduct this development. In order to capture data for use, a user has to have friends with tips on the area of his interest (current location/address). Once a user is identified, we can proceed to build the solution. 
+
+The data used to build the solution are mostly sourced from Foursquare API responses. This includes user’s details, user’s friends and friends’ tips. The user’s location for this purpose is provided manually as an address, then to be translated to a set of coordinates. For commercial purposes, this can be supplied from a GPS location.  
